@@ -1,15 +1,15 @@
 # Web-Scraping-Projects
 A collection of web scraping projects to practice your skills or build a portfolio.
 
-| Project | Description |
-|---|---|
-| [Amazon](https://github.com/israel-dryer/Amazon-Scraper) | product and price data |
-| [Indeed.com](https://github.com/israel-dryer/Indeed-Job-Scraper) | job postings based on search criteria | 
-| [Yahoo! Finance](https://github.com/israel-dryer/Yahoo-Finance-Scraper) | financial, company and historical stock data |
-| [Salary.com](https://github.com/israel-dryer/Salary-Dot-Com-Scraper) | salary statistics based on specific search criteria |
-| [Yahoo! News](https://github.com/israel-dryer/Yahoo-News-Scraper) | news article data including summmary based on search criteria |
-| [Twitter](https://github.com/israel-dryer/Twitter-Scraper) | scrape twitter data |
-| [Ebay](https://github.com/israel-dryer/Ebay-Scraper) | scrape ebay searches |
+| Project | Description | Finished
+|---|---|---|
+| [Amazon](https://github.com/israel-dryer/Amazon-Scraper) | product and price data | no
+| [Indeed.com](https://github.com/israel-dryer/Indeed-Job-Scraper) | job postings based on search criteria | no
+| [Yahoo! Finance](https://github.com/israel-dryer/Yahoo-Finance-Scraper) | financial, company and historical stock data | no
+| [Salary.com](https://github.com/israel-dryer/Salary-Dot-Com-Scraper) | salary statistics based on specific search criteria | no
+| [Yahoo! News](https://github.com/israel-dryer/Yahoo-News-Scraper) | news article data including summmary based on search criteria | no
+| [Twitter](https://github.com/israel-dryer/Twitter-Scraper) | scrape twitter data | no
+| [Ebay](https://github.com/israel-dryer/Ebay-Scraper) | scrape ebay searches | no
 
 ## Requirements
 A few of these projects use browser automation, but most do not. For this, I use **Selenium** to automate the browser.  Other libraries that are used include:
