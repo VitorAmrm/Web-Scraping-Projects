@@ -3,7 +3,7 @@ A collection of web scraping projects to practice your skills or build a portfol
 
 | Project | Description | Finished
 |---|---|---|
-| [Amazon](https://github.com/VitorAmrm/Amazon_scraper) | product and price data | no
+| [Amazon](https://github.com/VitorAmrm/Amazon_scraper) | product and price data | yes
 | [Indeed.com](https://github.com/israel-dryer/Indeed-Job-Scraper) | job postings based on search criteria | no
 | [Yahoo! Finance](https://github.com/israel-dryer/Yahoo-Finance-Scraper) | financial, company and historical stock data | no
 | [Salary.com](https://github.com/israel-dryer/Salary-Dot-Com-Scraper) | salary statistics based on specific search criteria | no
